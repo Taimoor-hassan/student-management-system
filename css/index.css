@@ -1,0 +1,12 @@
+body{
+    background-image: url(../img/light_background.jpg);
+    margin-bottom: 2rem;
+}
+.formv{
+    border-radius: .7rem ;
+    padding: .5rem;
+}
+.formv:hover{
+    -webkit-box-shadow: -2px 4px 48px -17px rgba(0,0,0,0.81);
+    -moz-box-shadow: -2px 4px 48px -17px rgba(0,0,0,0.81);
+}

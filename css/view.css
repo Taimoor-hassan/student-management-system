@@ -1,0 +1,18 @@
+body{
+    background-image: url(../img/light_background.jpg);
+}
+.formv{
+    border-radius: .7rem ;
+    padding: .5rem;
+    -webkit-box-shadow: -2px 4px 48px -17px rgba(0,0,0,0.81);
+    -moz-box-shadow: -2px 4px 48px -17px rgba(0,0,0,0.81);
+}
+
+.inf{
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+h2{
+    padding: .5rem !important;
+    margin-left: 1rem !important;
+}
