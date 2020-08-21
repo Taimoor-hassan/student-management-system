@@ -65,24 +65,18 @@ $con=mysqli_connect('sql309.byethost7.com','b7_25814993','5f0v8wpz','b7_25814993
 
 <footer>
     <div class="container">
+    <br><br>
         <center><h2>Contributers of project</h2></center><br>
         <div class="row">
-        <div class="col-lg-3 col-md-3 col-sm-3">
+        <div class="col-lg-6 col-md-6 col-sm-6">
                 <center><img src="./img/my-pic.jpg" width="80" height="80" style="border-radius: 3rem">
                 <h4>Taimoor hassan</h4></center>
         </div>
-        <div class="col-lg-3 col-md-3 col-sm-3">
+        <div class="col-lg-6 col-md-6 col-sm-6">
         <center><img src="./img/awais.jpeg" width="80" height="80" style="border-radius: 3rem">
                 <h4>Awais ikram</h4></center>
         </div>
-        <div class="col-lg-3 col-md-3 col-sm-3">
-        <center> <img src="./img/sagar1.jpg" width="80" height="80" style="border-radius: 3rem">
-                <h4>Sagar hussain</h4></center>
-            </div>
-        <div class="col-lg-3 col-md-3 col-sm-3">
-        <center> <img src="./img/my-pic.jpg" width="80" height="80" style="border-radius: 3rem">
-                <h4>Tariq ishaq</h4></center>
-        </div>
+        
 </div>
     </div>
 </footer>
